@@ -1,6 +1,6 @@
 # Tree Age Mapping Tool
 
-This is a tool to log cut trees in forests to better understand the ages of the trees and forests. It uses the 10up Scaffold theme and a Gutenberg Blocks.
+This is a tool to log cut trees in forests to better understand the ages of the trees and forests. It uses the 10up Scaffold theme and is built with Gutenberg Blocks.
 
 # 10up WP Scaffold
 
